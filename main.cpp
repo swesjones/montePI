@@ -2,8 +2,7 @@
 //  main.cpp
 //  montePI
 //
-//  Stance Jones
-//  CSCI 127
+//  Wes Jones
 //
 
 #include <random>
